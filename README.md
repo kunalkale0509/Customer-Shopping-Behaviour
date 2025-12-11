@@ -104,8 +104,8 @@ Focus on:
 | Area | Tools |
 |------|-------|
 | **Data Cleaning & EDA** | Python (Pandas, NumPy) |
-| **Database** | PostgreSQL / MS SQL Server |
-| **Visualization** | Power BI |
+| **Database** | MS SQL Server |
+| **Visualization** | Power BI | Exel
 | **Environment** | Jupyter Notebook, SSMS |
 
 ---
