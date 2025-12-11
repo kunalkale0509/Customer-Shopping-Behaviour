@@ -122,6 +122,8 @@ Customer-Shopping-Behavior-Analysis/
 │
 ├── powerbi_dashboard.pbix
 │
+├── Presentaion.pptx
+│
 ├── KK Report Customer Shopping Behavior Analysis.pdf
 │
 └── README.md
