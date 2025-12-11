@@ -114,20 +114,15 @@ Focus on:
 ```bash
 Customer-Shopping-Behavior-Analysis/
 │
-├── data/
-│ └── raw_dataset.csv
+├── raw_dataset.csv
 │
-├── notebooks/
-│ └── eda_and_cleaning.ipynb
+├── eda_and_cleaning.ipynb
 │
-├── sql/
-│ └── business_queries.sql
+├── business_queries.sql
 │
-├── dashboard/
-│ └── powerbi_dashboard.pbix
+├── powerbi_dashboard.pbix
 │
-├── reports/
-│ └── KK Report Customer Shopping Behavior Analysis.pdf
+├── KK Report Customer Shopping Behavior Analysis.pdf
 │
 └── README.md
 ```
