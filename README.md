@@ -73,6 +73,8 @@ An interactive Power BI dashboard was created to visualize:
 
 The dashboard enables filtering, comparison, and deep insights for decision-makers.
 
+<img width="932" height="511" alt="Screenshot 2025-12-11 193717" src="https://github.com/user-attachments/assets/46e2d21d-4ec2-4f72-a767-fb569c2538ca" />
+
 ---
 
 ## 🎯 6. Business Recommendations
