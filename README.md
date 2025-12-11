@@ -130,50 +130,38 @@ Customer-Shopping-Behavior-Analysis/
 │ └── KK Report Customer Shopping Behavior Analysis.pdf
 │
 └── README.md
+```
 
-
----
+--- 
 
 ## 🚀 9. How to Run This Project
 
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/yourusername/customer-shopping-behavior-analysis.git
-
+```
 
 ### 2️⃣ Install Python Dependencies
 ```bash
 pip install -r requirements.txt
-
+```
 ### 3️⃣ Run the Jupyter Notebook
 ```bash
 jupyter notebook notebooks/eda_and_cleaning.ipynb
-
+```
 ### 4️⃣ Execute SQL Scripts
-```bash
 Run all SQL queries in:
-
+```bash
 sql/business_queries.sql
-
+```
 ### 5️⃣ Open Power BI Dashboard
 
 Open:
-
-dashboard/powerbi_dashboard.pbix
-
+```
+dasahboard/powerbi_dashboard.pbix
+```
 ## 🙌 Conclusion
 
 This project uses Python, SQL, and Power BI to analyze customer shopping behavior and deliver insights on spending patterns, demographics, product preferences, and loyalty indicators.
-
-Future improvements:
-
-Predictive modeling
-
-RFM segmentation
-
-Cohort analysis
-
-Customer Lifetime Value (CLV) modeling
-
 
 ---
